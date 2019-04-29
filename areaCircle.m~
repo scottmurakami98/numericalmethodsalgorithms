@@ -1,0 +1,4 @@
+function[A] = areaCircle(r)
+A = pi * r^2
+Dogs = areaCircle(r)
+end
